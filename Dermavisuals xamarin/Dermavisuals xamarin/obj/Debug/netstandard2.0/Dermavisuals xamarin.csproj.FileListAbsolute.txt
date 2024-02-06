@@ -1,0 +1,15 @@
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\bin\Debug\netstandard2.0\Dermavisuals xamarin.deps.json
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\bin\Debug\netstandard2.0\Dermavisuals xamarin.dll
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\bin\Debug\netstandard2.0\ref\Dermavisuals xamarin.dll
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\bin\Debug\netstandard2.0\Dermavisuals xamarin.pdb
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Dermavisuals xamarin.csproj.AssemblyReference.cache
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Dermavisuals xamarin.AssemblyInfoInputs.cache
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Dermavisuals xamarin.AssemblyInfo.cs
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Dermavisuals xamarin.csproj.CoreCompileInputs.cache
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Dermavisuals xamarin.dll
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\ref\Dermavisuals xamarin.dll
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Dermavisuals xamarin.pdb
+C:\Users\muzna\source\repos\Dermavisuals xamarin\Dermavisuals xamarin\Dermavisuals xamarin\obj\Debug\netstandard2.0\Page1.xaml.g.cs

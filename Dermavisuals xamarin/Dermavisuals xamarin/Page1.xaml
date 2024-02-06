@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Dermavisuals_xamarin.Page1"
+             BackgroundColor="{StaticResource LightBackgroundColor}">
+
+    <ContentPage.Content>
+        <StackLayout Margin="20" Spacing = "40">
+            <Label Text="Famous Quotes" FontSize="Title" TextColor="Gray"
+                   HorizontalOptions="Center" VerticalOptions="Center"></Label>
+            <Label x:Name="QuoteLabel" 
+                   BindingContext="{x:Reference sliderFont}"
+                   FontSize="{Binding Value}"></Label>
+            <Button Clicked="Button_Clicked" Text="Next" TextColor="Black" BackgroundColor="Gray" CornerRadius="20" x:Name="NextButton"></Button>
+            
+
+            <Slider Maximum="26" Minimum="0"
+                MinimumTrackColor="DeepSkyBlue" MaximumTrackColor="Gray" ThumbColor="DeepSkyBlue" 
+                x:Name="sliderFont">
+            </Slider>
+            <Label BindingContext="{x:Reference sliderFont}"
+                   Text="{Binding Value, StringFormat='Font Size: {0:F2}'}"></Label>
+            <Slider ValueChanged="sliderColor_ValueChanged" Maximum="6"
+                MinimumTrackColor="DeepSkyBlue" MaximumTrackColor="Gray" ThumbColor="DeepSkyBlue" 
+                x:Name="sliderColor">
+            </Slider>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
